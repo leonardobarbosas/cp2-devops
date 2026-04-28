@@ -16,7 +16,10 @@ API REST em Spring Boot com CRUD de alunos, conectada a um banco MySQL em contai
 ---
 
 ## Endpoint da API
+GET
+http://136.248.68.118:8080//alunos
 
+POST
 http://136.248.68.118:8080
 
 ---
