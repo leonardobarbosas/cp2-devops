@@ -45,8 +45,4 @@ PUT /alunos/{id}
 
 DELETE /alunos/{id}
 
----
 
-## Teste rápido
-
-curl http://136.248.68.118:8080/alunos
